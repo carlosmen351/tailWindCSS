@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.card {
+  @apply lg:w-60 w-48 h-64 shadow-lg rounded-lg flex-none transform transition-all hover:-translate-y-4 hover:shadow-xl
+}
+.cardTitle {
+  @apply text-4xl  font-fira text-white relative -top-96 left-4 pt-2
+}
+.subTitle {
+  @apply text-lg  font-fira text-white relative -top-28 left-4 pt-2
+}
