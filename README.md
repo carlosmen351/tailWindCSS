@@ -1,5 +1,5 @@
 # carlos-travels
-## See how it works [here] (https://carlostravel.netlify.app/)
+## See how it works [here](https://carlostravel.netlify.app/)
 Responsive website made with Tailwind CSS, includes dark mode toggle.
 
 #Features
